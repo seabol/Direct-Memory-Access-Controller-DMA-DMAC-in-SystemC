@@ -1,7 +1,7 @@
 # Direct-Memory-Access-Controller-DMA-DMAC-in-SystemC
 ## Abstract
-Develop a Direct Memory Access Controller (DMA/DMAC) in SystemC, wrapped by TLM 2.0.
-Please read carefully. All outputs required are described in the text. Five (5) points will be taken for each bug, missing required output and behavior.
+- Develop a Direct Memory Access Controller (DMA/DMAC) in SystemC, wrapped by TLM 2.0.
+- Please read carefully. All outputs required are described in the text. Five (5) points will be taken for each bug, missing required output and behavior.
 
 ## Description
 
